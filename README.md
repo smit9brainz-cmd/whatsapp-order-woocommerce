@@ -69,6 +69,8 @@ After activating the plugin:
 ## 📸 Screenshot
 
 ![WhatsApp Order Button](./screenshot.png)
+![Plugin Settings Page](./screenshot2.png)
+
 
 ---
 
